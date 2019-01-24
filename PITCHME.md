@@ -1,9 +1,9 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Introduction]
 
-@snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
-@snapend
+#@snap[west text-25 text-bold text-white]
+Unit Testing<br>*How To Not Write Tests*
+#@snapend
 
 @snap[south-west byline text-white text-06]
 Test Changes.
