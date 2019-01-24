@@ -2,7 +2,11 @@
 @title[Introduction]
 
 @snap[west text-25 text-bold text-white]
-Unit Testing<br>*How To Not Write Tests*
+Unit Testing
+@snapend
+
+@snap[west text-10 text-bold text-white]
+*How To Not Write Tests*
 @snapend
 
 @snap[south-west byline text-white text-06]
