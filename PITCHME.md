@@ -1,13 +1,8 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Introduction]
 
-@snap[west text-25 text-bold text-white]
-Unit Testing
-@snapend
-
-@snap[west text-10 text-bold text-white]
-*How To Not Write Tests*
-@snapend
+##Unit Testing
+###*How To Not Write Tests*
 
 @snap[south-west byline text-white text-06]
 Test Changes.
